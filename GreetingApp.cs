@@ -14,9 +14,10 @@
             double bookPrice = Convert.ToDouble(Console.ReadLine());
 
             Console.WriteLine("\nName: " + name);
-            Console.WriteLine("Total enrolled courses: What if ayoko" + numOfCourse);
+            Console.WriteLine("Total enrolled courses: " + numOfCourse);
             Console.WriteLine("Price of my favorite book: " + bookPrice);
 
         }
     }
 } //by January Toribio Jr.
+//unique na din to someday
